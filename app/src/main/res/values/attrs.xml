@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--********************* TopBar *********************-->
+    <declare-styleable name="NavTopBar">
+        <attr name="top_bar_title_text" format="string" />
+    </declare-styleable>
+
+</resources>
